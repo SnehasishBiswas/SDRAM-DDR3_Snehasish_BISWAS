@@ -1,4 +1,4 @@
-# Making a DDR3SDRAm using verilog in XILINX 
+# Making a DDR3SDRAM using verilog in XILINX 
 
 The uploaded schematic appears to be related to a **DDR3 memory interface using a Xilinx 7-Series Memory Interface Generator (MIG)**. It includes various signals and ports necessary for interfacing with DDR3 memory modules. Here's a brief description:
 
